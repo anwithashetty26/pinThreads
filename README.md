@@ -4,13 +4,13 @@ Pinthreads is a Reddit × Pinterest inspired social discovery platform built wit
 
 ## Features
 
+* Post ideas
 * Pinterest-style card layout
-* Reddit-style discussion threads
-* Nested comments and replies
-* Upvote and downvote system
+* Browse content
+* Comment Section
+* Modern UI
 * Like posts
 * Save posts
-* Dark theme UI
 * Interactive post detail panel
 
 ## Technologies Used
