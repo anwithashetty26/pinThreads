@@ -4,7 +4,6 @@ Pinthreads is a Reddit × Pinterest inspired social discovery platform built wit
 
 ## Features
 
-* Post ideas
 * Browse content
 * Comment Section
 * Modern UI
@@ -33,4 +32,3 @@ npm run dev
 ## Project Status
 
 This project was developed as a frontend social media platform inspired by Reddit and Pinterest.
-
