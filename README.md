@@ -34,4 +34,3 @@ npm run dev
 
 This project was developed as a frontend social media platform inspired by Reddit and Pinterest.
 
-Updated project README
