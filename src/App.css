@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+}
+
+.post {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.comment {
+  background: #f9f9f9;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+body {
+  overflow-x: hidden;
+}
+* {
+  box-sizing:border-box;
+}
+
+.thread-details,
+.post,
+.comment {
+    max-width: 100%;
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
