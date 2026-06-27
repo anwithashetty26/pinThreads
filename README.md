@@ -1,6 +1,6 @@
-# Pinthreads
+# pinThreads
 
-Pinthreads is a Reddit × Pinterest inspired social discovery platform built with React.
+pinThreads is a Reddit × Pinterest inspired social discovery platform built with React.
 
 ## Features
 
