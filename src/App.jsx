@@ -36,7 +36,7 @@ export default function App() {
         <span className="text-2xl">📌</span>
 
         <h1 className="text-2xl font-bold">
-          <span className="text-sky-400">Pin</span>threads
+          <span className="text-sky-400">pin</span>Threads
         </h1>
 
         <input
